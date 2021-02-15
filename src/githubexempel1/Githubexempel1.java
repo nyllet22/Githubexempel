@@ -18,6 +18,7 @@ public class Githubexempel1 {
         // TODO code application logic here
         System.out.println("Detta är ett GIThub exempel!");
         System.out.println("Detta är en ny rad");
+        System.out.println("Detta är en tredje rad");
     }
     
 }
